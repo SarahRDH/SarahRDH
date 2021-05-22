@@ -8,7 +8,7 @@
 
 - 🖥 I'm currently looking for a paid internship or entry level front end dev job.
 - 🔭 I’m currently working on the Wes Bos 30 day JavaScript challenge.
-- 🌱 I’m currently learning more JavaScript and reading O'Reilly's latest JS book. <br><br><span>
+- 🌱 I’m currently learning more JavaScript, reading O'Reilly's latest JS book, taking a UPennX JS course, and finishing up HarvardX CS50X. <br><br><span>
   <img width="300" height="auto" src="https://www.dropbox.com/s/1uc42v0yw5jf7qz/IT%20crowd.gif?raw=1">
 </span><br><br>
 - 🧠 I already know HTML and CSS, a little bit of C and Bootstrap, and I plan to get into Python after I'm comfortable with JavaScript and React.
