@@ -8,10 +8,10 @@
 
 - 🖥 I'm currently looking for a front end dev job.
 - 🔭 I’m currently building a non-profit healthcare site with Bootstrap.
-- 🌱 I’m currently learning more JavaScript, reading O'Reilly's latest JS book, doing the Wes Bos 30 day JavaScript challenge, taking a UPennX JS course, and finishing up HarvardX CS50X. <br><br><span>
+- 🌱 I’m currently learning more JavaScript, reading O'Reilly's latest JS book, taking a UPennX JS course, and finishing up HarvardX CS50X. <br><br><span>
   <img width="300" height="auto" src="https://www.dropbox.com/s/1uc42v0yw5jf7qz/IT%20crowd.gif?raw=1">
 </span><br><br>
-- 🧠 I already know HTML and CSS, Bootstrap, WordPress, a little bit of jQuery and C, and I plan to get into Python after I'm more comfortable with JavaScript and React.
+- 🧠 I already know HTML and CSS, Bootstrap, WordPress, JavaScript a little bit of jQuery and C, and I plan to get into Python after I'm more fluent with JavaScript and React.
 - 💬 Ask me about UI/UX for healthcare and dental professionals. My background is in healthcare.
 - 📫 How to reach me: https://sarahrdh.github.io/ or https://www.linkedin.com/in/sarah-johnson-84bb3ba3/
 - 😄 Pronouns: she/her/hers
