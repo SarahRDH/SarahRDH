@@ -6,9 +6,8 @@
 
 ### Hi there 🥸
 
-- 🖥 I'm currently looking for a front end dev job.
 - 🔭 I’m currently building a non-profit healthcare site with Bootstrap.
-- 🌱 I’m currently learning more JavaScript, reading O'Reilly's latest JS book, taking a UPennX JS course, and finishing up HarvardX CS50X. <br><br><span>
+- 🌱 I’m currently (and always) learning more JavaScript.<br><br><span>
   <img width="300" height="auto" src="https://www.dropbox.com/s/1uc42v0yw5jf7qz/IT%20crowd.gif?raw=1">
 </span><br><br>
 - 🧠 I already know HTML and CSS, Bootstrap, WordPress, JavaScript a little bit of jQuery and C, and I plan to get into Python after I'm more fluent with JavaScript and React.
