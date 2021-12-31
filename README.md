@@ -1,5 +1,4 @@
 <!--<p align="center">
-  <img width="500" height="auto" src="https://www.dropbox.com/s/17focd803d7xjoj/troi%20gif.gif?raw=1">
 </p>-->
 
 ---
