@@ -15,4 +15,6 @@ Here's a glimpse of my activity for 2023 and 2024. <br><br>
 📫 How to reach me: https://sarahrdh.github.io/ or https://www.linkedin.com/in/sarah-johnson-84bb3ba3/ <br>
 🐶 Fun facts: I enjoy dog training and have two rescued pitties. <br>
 
+<b><a href="https://www.linkedin.com/in/sarahjohnsonrdh/details/projects/" target="_blank">View my live projects!</a></b>
+
 ---
